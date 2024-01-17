@@ -22,9 +22,10 @@ manager’s Scope, Goals, and Risk Assessment report.
 <th><strong>Explanation</strong></th>
 </tr>
 <tr class="odd">
-<th>-[x]<ul>
+<th><ul>
+    - [x]
 <li></li>
-</ul>]</th>
+</ul></th>
 <th><ul>
 <li></li>
 </ul></th>
