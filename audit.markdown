@@ -34,10 +34,10 @@ may have access to cardholder data and customers’ PII/SPII.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Disaster recovery plans</th>
 <th>There is currently no disaster recovery plan.</th>
