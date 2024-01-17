@@ -24,7 +24,7 @@ manager’s Scope, Goals, and Risk Assessment report.
 <tr class="odd">
 <th><ul>
 <li></li>
-</ul></th>
+</ul>[x]</th>
 <th><ul>
 <li></li>
 </ul></th>
