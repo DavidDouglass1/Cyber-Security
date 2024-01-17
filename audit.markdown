@@ -26,7 +26,7 @@ manager’s Scope, Goals, and Risk Assessment report.
 
 </ul></th>
 <th><ul>
-- [x]
+:white_check_mark:
 </ul></th>
 <th>Least Privilege</th>
 <th>Currently all Botium toys employees have access to internal data and
