@@ -44,10 +44,10 @@ may have access to cardholder data and customers’ PII/SPII.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Password policies</th>
 <th>There is a minimal password policy that is not effective enough to
@@ -56,10 +56,10 @@ to be implemented.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Separation of duties</th>
 <th>Separation of duties needs to be implemented to control access only
@@ -67,10 +67,10 @@ to people who need access to particular data</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Firewall</th>
 <th>The IT department has a firewall that blocks traffic based on an
@@ -78,10 +78,10 @@ appropriately defined set of security rules.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Intrusion detection system (IDS)</th>
 <th>There needs to be an intrusion system installed to prevent and
@@ -89,10 +89,10 @@ identify threat actors from accessing sensitive equipment.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Backups</th>
 <th>A backup system needs to be implemented in case of a breach or any
@@ -100,10 +100,10 @@ other incident that leads to data loss.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Antivirus software</th>
 <th>Antivirus software is installed and monitored regularly by the IT
@@ -111,10 +111,10 @@ department.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Manual monitoring, maintenance, and intervention for legacy
 systems</th>
@@ -124,10 +124,10 @@ unclear.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Encryption</th>
 <th>Is not in compliance with regulations. Encryption for customers’
@@ -135,10 +135,10 @@ credit card data needs to be implemented ASAP.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Password management system</th>
 <th>Needs to be implemented to ensure employees comply with future
@@ -146,30 +146,30 @@ password policies.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Locks (offices, storefront, warehouse)</th>
 <th></th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Closed-circuit television (CCTV) surveillance</th>
 <th></th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Fire detection/prevention (fire alarm, sprinkler system, etc.)</th>
 <th></th>
@@ -201,10 +201,10 @@ password policies.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Only authorized users have access to customers’ credit card
 information.</th>
@@ -212,10 +212,10 @@ information.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Credit card information is stored, accepted, processed, and
 transmitted internally, in a secure environment.</th>
@@ -224,10 +224,10 @@ access to credit card data</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Implement data encryption procedures to better secure credit card
 transaction touchpoints and data. <mark></mark></th>
@@ -235,10 +235,10 @@ transaction touchpoints and data. <mark></mark></th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Adopt secure password management policies.</th>
 <th>There is a minimal password policy and there is no password
@@ -267,20 +267,20 @@ management system in place</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>E.U. customers’ data is kept private/secured.</th>
 <th>Encryption is not used to ensure confidentiality of data</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>There is a plan in place to notify E.U. customers within 72 hours if
 their data is compromised/there is a breach.</th>
@@ -289,10 +289,10 @@ data or a breach.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Ensure data is properly classified and inventoried.</th>
 <th>Data is inventoried but not classified into public, internal only,
@@ -300,10 +300,10 @@ classified and restricted.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Enforce privacy policies, procedures, and processes to properly
 document and maintain data.</th>
@@ -334,10 +334,10 @@ document and maintain data.</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>User access policies are established.</th>
 <th>All employees have the same access, which is access to all
@@ -345,20 +345,20 @@ data.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Sensitive data (PII/SPII) is confidential/private.</th>
 <th>Credit Card information is not encrypted</th>
 </tr>
 <tr class="odd">
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th><ul>
-<li></li>
+
 </ul></th>
 <th>Data integrity ensures the data is consistent, complete, accurate,
 and has been validated.</th>
@@ -367,10 +367,10 @@ to ensure data integrity.</th>
 </tr>
 <tr class="header">
 <th><ul>
-<li></li>
+
 </ul></th>
 <th><ul>
-<li></li>
+:white_check_mark:
 </ul></th>
 <th>Data is available to individuals authorized to access it.</th>
 <th>Data is available to all employees.</th>
