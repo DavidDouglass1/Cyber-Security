@@ -17,10 +17,9 @@ website's connection timeout error message is a DoS (Denial of Service)
 attack used by flooding the web server with SYN requests.</p>
 <p>The logs show that there were two types of errors: 1. An HTTP/1.1 504
 Gateway Time-out (text/html) error message. And 2. A timeout error due
-to the web server not receiving a [SYN, ACK] packet.
-The web site is down until this issue is resolved and the potential attack
- is stopped, causing loss of sales.  This attack should be addressed ASAP.
-</p></th>
+to the web server not receiving a [SYN, ACK] packet.</p>
+<p>The web site is down until this issue is resolved and the potential attack
+ is stopped, causing loss of sales.  This attack should be addressed ASAP.</p></th>
 </tr>
 <tr class="header">
 </tr>
