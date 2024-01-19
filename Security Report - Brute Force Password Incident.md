@@ -7,7 +7,7 @@
    </td>
   </tr>
   <tr>
-   <td rowspan="2" colspan="2" >After anaylyzing the tcpdump files, it was determined that the protocol impacted in this incident was hypertext transfer protocol (HTTP) at the appplication layer.  The website prompts users to download a malicious file that operates on the application layer to redirect users from www.yummyrecipesforme.com to www.greatrecipesforme.com.
+   <td rowspan="2" colspan="2" >After analyzing the tcpdump files, it was determined that the protocol impacted in this incident was hypertext transfer protocol (HTTP) at the appplication layer.  The website prompts users to download a malicious file that operates on the application layer to redirect users from www.yummyrecipesforme.com to www.greatrecipesforme.com.
    </td>
   </tr>
   <tr>
